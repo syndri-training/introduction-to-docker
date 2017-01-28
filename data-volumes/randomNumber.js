@@ -1,5 +1,5 @@
 // Generates a random number and stores the value in a variable
-const randomNumber = Math.floor(Math.random() * 20);
+const randomNumber = Math.floor(Math.random() * 20) + 1;
 
 // Output the random number to the console
 console.log(randomNumber);
