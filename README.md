@@ -6,13 +6,13 @@ A free course on learning the basics about Docker containers.
 
 ![Docker Logo](./_images/docker_logo.png)
 
-This course will get you up and running in minutes, by showing you:
+This course will get you up and running in minutes, and productive in hours, by showing you:
 
 * The concepts behind Docker
 * Why Docker is beneficial to web developers
 * How to manage Docker images and containers
 * How to incorporate Docker into web applications
-* Deploy Docker on Heroku
+* How to deploy Docker on Heroku
 
 ## Getting Started
 
